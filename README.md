@@ -8,6 +8,10 @@ This project is built to learn about NestJS, Prisma and Swagger.
 - Prisma to learn more about ORMs, SQL (PostgreSQL) and database management
 - Swagger to learn more about API documentation
 
+## Guide
+
+Followed [this guide](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
+
 
 ## Project setup
 
